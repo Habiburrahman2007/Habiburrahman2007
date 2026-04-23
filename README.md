@@ -1,4 +1,4 @@
-# Hi, I'm Habibur Rahman Al-Arif (Habib) 👋
+# Hi, I'm Habiburrahman Al-Arif (Habib) 👋
 ### Software Engineering Student | Full-Stack Web Developer | AI & Automation Enthusiast
 
 ---
@@ -40,9 +40,9 @@ I'm a Software Engineering student based in Semarang, Indonesia. I focus on buil
 ---
 
 ## 🌲 Forest Activity
-![Habib's GitHub stats](https://github-readme-stats.vercel.app/api?username=username-kamu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username-kamu&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Habiburrahman2007&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habiburrahman2007&layout=compact&theme=tokyonight)
 
 ---
 
